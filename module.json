@@ -1,0 +1,8 @@
+{
+    "name": "TestModule",
+    "title": "TestModule - A test of FVTT module",
+    "description": "A simple module to test some things",
+    "author": "Zystoss",
+    "version": "1.0.0",
+    "minimumCoreVersion": "9"
+}
